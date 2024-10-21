@@ -1,7 +1,7 @@
 # SCRIPT_INSTALL_ZABBIX
 #===============================================================================
 #         FILE: install-zbxAgent2_windows-x86_64.ps1
-#        USAGE: curl -ks https://raw.githubusercontent.com/wuilber002/Zabbix-Scripts/master/install/install-zbxAgent2_windows-x86_64.ps1
+#        USAGE: curl -ks https://github.com/Livia-Amorim/SCRIPT_INSTALL_ZABBIX.git
 #
 #  DESCRIPTION: Script de instalacao para o Zabbix Agent2 5.4 
 #
